@@ -89,7 +89,7 @@ ul{
     padding: 0px 20px;
     border-radius:4px;
     background-color: #014dd5;
-    
+    color:white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -177,13 +177,12 @@ ul{
 /*==appointment-search=====================*/
 .appointment-search-container{
     max-width: 1000px;
-    width: 90%;
+    width: 80%;
     background-color: #ffffff;
     padding:20px;
     margin: auto;
     border-radius: 10px;
     box-shadow: 2px 16px 30px rgba(0,0,0,0.12);
-    margin-top: -60px;
     z-index: 3;
     position: relative;
 }
