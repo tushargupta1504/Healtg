@@ -61,8 +61,8 @@ ul{
     font-size: 1.4rem;
 }
 .logo span{
-    background-color: #014dd5;
-    
+    background-color: #122853;
+    color: white;
     padding: 0px 5px;
     border-radius: 5px;
     font-weight: 600;
@@ -88,8 +88,9 @@ ul{
     height: 45px;
     padding: 0px 20px;
     border-radius:4px;
-    background-color: #014dd5;
+    background-color: #122853;
     
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -145,6 +146,7 @@ ul{
     display: flex;
     justify-content: flex-start;
     align-items: center;
+   
 }
 .hero-text-btns a{
     height: 45px;
@@ -160,6 +162,7 @@ ul{
     letter-spacing: 0.5px;
     font-weight: 500;
     border: 3px solid black;
+    color: white;
 }
 .hero-text-btns a i{
     width: 18px;
@@ -170,6 +173,7 @@ ul{
     border-radius: 50%;
     background-color: #014dd5;
     margin-right: 8px;
+    color: white;
     
     font-size: 0.5rem;
     padding-bottom: 1px;
@@ -218,7 +222,7 @@ ul{
     outline: none;
 }
 .appointment-search button{
-    background-color: #014dd5;
+    background-color: #122853;
     color: #ffffff;
     border: none;
     outline: none;
